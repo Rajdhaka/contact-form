@@ -6,7 +6,7 @@ export default function Navigation() {
     // container
     <nav className={`${styles.navigation}`}>
       <div className={styles.logo}>
-        <img src="../public/images/logo.png" alt="logo" />
+        <img src="./public/images/logo.png" alt="logo" />
       </div>
       <ul>
         <li>Home</li>
