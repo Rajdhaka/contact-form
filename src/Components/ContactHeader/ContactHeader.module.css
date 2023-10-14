@@ -1,0 +1,17 @@
+.contact_section {
+  width: 1095px;
+  margin: 0 auto;
+}
+
+.contact_section h1 {
+  text-transform: uppercase;
+  font-weight: 800;
+  font-size: 44px;
+  max-width: 80%;
+}
+
+.contact_section p {
+  text-transform: uppercase;
+  color: gray;
+  font-weight: 500;
+}
